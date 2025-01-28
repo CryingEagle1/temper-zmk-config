@@ -23,7 +23,7 @@ layers:
     - /
   - - ⌘
     - num
-    - '&smart_shift'
+    - {t: ⇧, s: ⇪}
     - SPACE
     - nav
     - {t: default, h: toggle}
